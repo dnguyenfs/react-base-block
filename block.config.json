@@ -1,0 +1,16 @@
+{
+  "packageId": "wpkbJr7VnDG5l",
+  "viewId": "spc95X0aukRrp",
+  "entry": "./src/index.tsx",
+  "name": {
+    "en-US": "react-block"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "en-US": "react-block description"
+  },
+  "sandbox": true,
+  "website": "https://gridly.com"
+}
